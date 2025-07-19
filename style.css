@@ -286,6 +286,7 @@ section {
 
   .hamburger.is-active .bar {
     opacity: 0;
+    
   }
 
   .mobile-nav {
